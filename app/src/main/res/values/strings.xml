@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="HA">ACTIVITY LIFE CYCLE</string>
+    <string name="desc">This is an image of Activitylife Cycle of Android</string>
+</resources>
